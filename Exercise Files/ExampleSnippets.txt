@@ -87,8 +87,7 @@ print multi_add(4,5,10,4)
 --- Conditionals ---
 
   # conditional flow uses if, elif, else  
-  if(x < y):
-    st= "x is less than y"
+
   elif (x == y):
     st= "x is same as y"
   else:
@@ -105,6 +104,8 @@ print multi_add(4,5,10,4)
   while (x < 5):
      print x
      x = x + 1
+
+
 
   # define a for loop
   for x in range(5,10):
